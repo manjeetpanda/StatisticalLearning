@@ -1,0 +1,3 @@
+"deciles","range","min_","max_","avg_","cnt","cnt_resp","cnt_non_resp","prob","cum_tot","cum_resp","cum_non_resp","cum_tot_pct","cum_resp_pct","cum_non_resp_pct","ks"
+9,"0 to 0",0,0,0,17488,0,17488,"0%",17488,0,17488,"87.4%","0%","100%","100%"
+10,"1 to 1",1,1,1,2512,2512,0,"100%",20000,2512,17488,"100.0%","100%","100%","0%"
